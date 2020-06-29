@@ -3,4 +3,4 @@ Challenge 1 of the [Full Cycle Marathon](http://maratona.fullcycle.com.br/) 2.0
 
 [Challenges](https://github.com/codeedu/maratona2-desafios)
 
-[Docker Image](https://hub.docker.com/r/axell13/fullcycle03-challenge1)
+[Docker Image](https://hub.docker.com/r/axell13/fullcycle2.0-challenge1)
